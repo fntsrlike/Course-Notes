@@ -72,5 +72,6 @@ _Week 02_
 - Y = a' * b
 - 使用NOT, AND2, OR2完成2-input XOR Gate之電路與真值表
     - A XOR B
+    - ,
 - 使用NOT, AND2, OR2完成3-input XOR Gate之電路與真值表
     - A XOR B XOR C
